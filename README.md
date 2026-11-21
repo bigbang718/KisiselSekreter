@@ -1,3 +1,9 @@
+<img width="1080" height="2376" alt="IMG_20261122_012814" src="https://github.com/user-attachments/assets/8869ccc4-0255-487b-83b4-ce3340076395" />
+<img width="1080" height="2376" alt="IMG_20261122_012752" src="https://github.com/user-attachments/assets/62cb7c8b-fd18-4ef9-93cc-6da3aab0a0d8" />
+<img width="1080" height="2376" alt="IMG_20261122_012730" src="https://github.com/user-attachments/assets/90534797-2b95-4a21-94e6-a4afbfafc86b" />
+<img width="1080" height="2376" alt="IMG_20261122_012713" src="https://github.com/user-attachments/assets/55bedb9a-f3f6-4b4b-bcde-594fa6901853" />
+<img width="1080" height="2376" alt="IMG_20261122_012657" src="https://github.com/user-attachments/assets/46769764-049c-4e78-9adc-4553723e216d" />
+<img width="1080" height="2376" alt="IMG_20261122_012635" src="https://github.com/user-attachments/assets/c8d88cc1-8e62-4403-8469-4a6706668288" />
 # Kişisel Sekreter
 
 Sakin, göz yormayan nude renk paletine sahip, odaklanmayı kolaylaştıran ve yargılayıcı olmayan bir yerel Android görev ve rutin takip uygulaması.
