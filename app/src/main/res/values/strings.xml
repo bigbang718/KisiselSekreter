@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kişisel Sekreter</string>
+    <string name="widget_name">Kişisel Sekreter · Görevler</string>
+    <string name="widget_description">Günlük ve yaklaşan görevlerinizi sakin nude tasarım ile ana ekrandan takip edin ve tek dokunuşla tamamlayın.</string>
+    <string name="widget_preview_subtitle">Bugün &amp; Yaklaşan · 3 görev</string>
+    <string name="widget_preview_sample_task_1">Günlük cüz ve meal okuması</string>
+    <string name="widget_preview_sample_meta_1">Kur\'an Okumalarım · Bugün 07:30</string>
+    <string name="widget_preview_sample_task_2">Sabah tesbihatı ve şükür zikri</string>
+    <string name="widget_preview_sample_meta_2">Maneviyat · Bugün 08:30</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="secretary_widget_min_width">180dp</dimen>
+    <dimen name="secretary_widget_min_height">110dp</dimen>
+    <dimen name="secretary_widget_min_resize_width">140dp</dimen>
+    <dimen name="secretary_widget_min_resize_height">110dp</dimen>
+    <dimen name="secretary_widget_max_resize_width">520dp</dimen>
+    <dimen name="secretary_widget_max_resize_height">520dp</dimen>
+</resources>
